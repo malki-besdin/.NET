@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Organization.API",
+    "\\Organization.Core",
+    "\\Organization.Core\\Services",
+    "\\Organization.Service"
+  ],
+  "SelectedNode": "\\Organization.Service\\Organization.Service.csproj",
+  "PreviewInSolutionExplorer": false
+}
